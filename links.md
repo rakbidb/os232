@@ -25,4 +25,6 @@ permalink: LINKS/
 ## WEEK 05
 * [What's Virtual Memory?](https://www.youtube.com/watch?v=5lFnKYCZT5o) ---
   Video yang berdurasi 22,3 menit cukup membantu dalam memahami apa itu virtual memory!
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
+  Saya merekomendasikan website ini karena penjelasannya cukup mendalam!
 <hr>
