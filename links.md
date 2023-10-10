@@ -21,3 +21,8 @@ permalink: LINKS/
 * [Logical vs Physical address space | OS | Lec-32 | Bhanu Priya](https://www.youtube.com/watch?v=dDs53dBjErA) ---
   Video yang berdurasi hanya sekitar 7,5 menit! Cukup membantu dalam memahami topik terkait!
 <hr>
+
+## WEEK 05
+* [What's Virtual Memory?](https://www.youtube.com/watch?v=5lFnKYCZT5o) ---
+  Video yang berdurasi 22,3 menit cukup membantu dalam memahami apa itu virtual memory!
+<hr>
