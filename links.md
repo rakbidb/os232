@@ -28,3 +28,8 @@ permalink: LINKS/
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
   Saya merekomendasikan website ini karena penjelasannya cukup mendalam!
 <hr>
+
+## WEEK 06
+* [Processes and Threads (Concurrency Basics)](https://www.youtube.com/watch?v=Wv7mzX8w3jI) ---
+  Video yang sangat saya rekomendasikan untuk ditonton! Hanya 5 menit dan dapat dikatakan sudah mencakup seluruh materi pada week ini!
+<hr>
