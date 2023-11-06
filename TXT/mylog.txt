@@ -42,3 +42,11 @@ ZCZC W05 10 L04 QUIZ
 ZCZC W05 90 L05 Weekly Assignments
 ZCZC W05 30 L06 Mencari referensi belajar
 ZCZC W05 30 L07 ZOOM meetings related
+ZCZC W06 20 L00 General, etc.
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 10 L02 GitHub related
+ZCZC W06 20 L03 GitHub Pages related
+ZCZC W06 15 L04 QUIZ
+ZCZC W06 90 L05 Weekly Assignments
+ZCZC W06 10 L06 Mencari referensi belajar
+ZCZC W06 10 L07 ZOOM Meetings related
