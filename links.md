@@ -33,3 +33,8 @@ permalink: LINKS/
 * [Processes and Threads (Concurrency Basics)](https://www.youtube.com/watch?v=Wv7mzX8w3jI) ---
   Video yang sangat saya rekomendasikan untuk ditonton! Hanya 5 menit dan dapat dikatakan sudah mencakup seluruh materi pada week ini!
 <hr>
+
+## WEEK 07
+* [Deadlocks](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html) ---
+  Rangkuman singkat terkait Deadlocks dari University of Illinois, Chicago! Cukup mudah dipahami dan menarik untuk dibaca!
+<hr>
