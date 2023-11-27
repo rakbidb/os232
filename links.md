@@ -43,3 +43,8 @@ permalink: LINKS/
 * [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=7) ---
   Video ini berisi penjelasan sangat detail dan tutorial bagaimana cara build Linux from scratch, sangat membantu! Penjelasannya sangat detail dan mudah dipahami!
   <hr>
+
+## WEEK 09
+* [Understanding and Using Systemd](https://www.linux.com/training-tutorials/understanding-and-using-systemd/) ---
+  Saya menyukai penjelasan tentang Systemd ini. Ditulis oleh Carla Schroder dari Linux.com.
+  <hr>
